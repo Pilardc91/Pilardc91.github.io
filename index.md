@@ -5,7 +5,7 @@ title: Pilar Díaz Carrasco
 
 # Welcome 👋
 
-I’m Pilar Díaz, a coastal and marine engineer focused on:
+I’m Pilar Díaz-Carrasco, a coastal and marine engineer focused on:
 
 - Marine structure design & damage mitigation
 - Climate change and sea-level rise
