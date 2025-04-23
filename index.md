@@ -1,9 +1,8 @@
 ---
-<img src="concrete-blocks-1206526_1280.jpg" alt="Header image" style="width:100%; height:auto; border-radius: 8px; margin-bottom: 20px;">
-
 layout: default
 title: Pilar Díaz Carrasco
 ---
+<img src="concrete-blocks-1206526_1280.jpg" alt="Header image" style="width:100%; height:auto; border-radius: 8px; margin-bottom: 20px;">
 
 # 👋 Welcome! I'm Pilar Díaz Carrasco
 
