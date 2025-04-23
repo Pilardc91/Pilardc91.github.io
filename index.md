@@ -52,5 +52,13 @@ I contribute to innovation in coastal engineering through applied research, tech
 🌍 Location: Seville, Spain
 
 ---
+---
+
+## 🧭 Explore More
+
+- [📚 Publications](./publications.md)
+- [🛠 Projects & Contracts](./projects.md)
+- [🎓 Teaching & Supervision](./teaching.md)
+
 
 *This website is hosted with ❤️ on [GitHub Pages](https://github.com/pilardc91).*
